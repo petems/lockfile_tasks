@@ -1,0 +1,6 @@
+{
+    "description": "Gives details about Puppet lockfiles present on system, and returns helpful messages about their current state",
+    "supports_noop": false,
+    "input_method": "stdin",
+    "parameters": { }
+}
